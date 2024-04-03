@@ -20,16 +20,18 @@ Con un enfoque orientado a resultados y una mentalidad analítica, estoy comprom
 -  Tableu
 -  FlexSim
 
-### Education
+#### Education
 - Master in Business Analytics	| EGADE Business School  (_Junio 2023_)	 			        		
 - Ingenierio Industrial y de Sistemas | Universidad del Valle de México (_2019_)
 
-## Projects
-### Finanzas personales
+
+### Projects
+
+#### Finanzas personales
 
 Este proyecto fue desarrollado con el objetivo de proporcionar una herramienta efectiva para el análisis y seguimiento de finanzas personales. Utilizando Power BI, creamos un dashboard completo que abarca cuatro sectores clave: ingresos, gastos, utilidad y balance. Cada uno de estos sectores ofrece una visión clara y detallada de la situación financiera, permitiendo una toma de decisiones más informada y eficiente.
 
-### Características destacadas:
+#### Características destacadas:
 
 - Ingresos: Este sector muestra de manera visual los ingresos generados en un período de tiempo determinado. Se incluyen gráficos de barras y líneas que muestran la distribución de los ingresos por categoría y su evolución a lo largo del tiempo.
 
@@ -41,7 +43,7 @@ Este proyecto fue desarrollado con el objetivo de proporcionar una herramienta e
 
 Además de estos cuatro sectores principales, el dashboard incluye análisis más detallados de cada categoría dentro de ingresos y gastos. Esto proporciona una comprensión más profunda de los patrones de gasto e ingreso, permitiendo identificar áreas de mejora y oportunidades de ahorro.
 
-### Conclusión:
+#### Conclusión:
 
 El dashboard de finanzas personales en Power BI ofrece una herramienta poderosa y visual para el análisis y seguimiento de las finanzas personales. Con sus características interactivas y detalladas, permite una toma de decisiones más informada y una gestión financiera más efectiva.
 
