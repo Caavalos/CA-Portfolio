@@ -20,7 +20,7 @@ Con un enfoque orientado a resultados y una mentalidad analítica, estoy comprom
 -  Tableu
 -  FlexSim
 
-## Education
+### Education
 - Master in Business Analytics	| EGADE Business School  (_Junio 2023_)	 			        		
 - Ingenierio Industrial y de Sistemas | Universidad del Valle de México (_2019_)
 
