@@ -39,7 +39,7 @@ Este proyecto fue desarrollado con el objetivo de proporcionar una herramienta e
 
 - Saldo o Balance: En esta sección se muestra el saldo actual disponible, permitiendo una fácil visualización de la liquidez financiera. Además, se compara con el saldo objetivo establecido para cada mes, lo que facilita el seguimiento de metas financieras.
 
-### Además de estos cuatro sectores principales, el dashboard incluye análisis más detallados de cada categoría dentro de ingresos y gastos. Esto proporciona una comprensión más profunda de los patrones de gasto e ingreso, permitiendo identificar áreas de mejora y oportunidades de ahorro.
+Además de estos cuatro sectores principales, el dashboard incluye análisis más detallados de cada categoría dentro de ingresos y gastos. Esto proporciona una comprensión más profunda de los patrones de gasto e ingreso, permitiendo identificar áreas de mejora y oportunidades de ahorro.
 
 ### Conclusión:
 
