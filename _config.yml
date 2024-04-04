@@ -3,19 +3,4 @@ logo: /assets/CarlosAvalos.jpg
 email: caavalosjr@gmail.com
 linkedin: www.linkedin.com/in/carlos-avalos-568a811b6
 #show_downloads: true
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-</head>
-<body>
-
-<button onclick="window.open('/assets/MBD - Carlos Avalos.pdf', '_blank')">Open PDF</button>
-
-{{ content }}
-
-</body>
-</html>
 theme: jekyll-theme-minimal
