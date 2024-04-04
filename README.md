@@ -25,7 +25,7 @@ Con un enfoque orientado a resultados y una mentalidad analítica, estoy comprom
 
 ### Projects
 
-#### Finanzas personales
+### Finanzas personales
 
 Este proyecto fue desarrollado con el objetivo de proporcionar una herramienta efectiva para el análisis y seguimiento de finanzas personales. Utilizando Power BI, creamos un dashboard completo que abarca cuatro sectores clave: ingresos, gastos, utilidad y balance. Cada uno de estos sectores ofrece una visión clara y detallada de la situación financiera, permitiendo una toma de decisiones más informada y eficiente.
 
@@ -48,7 +48,7 @@ El dashboard de finanzas personales en Power BI ofrece una herramienta poderosa 
 ![image](https://github.com/Caavalos/CA-Portfolio/assets/102110326/a7b7f713-f84c-478b-b00b-78106e2565a6)
 [Da clic aquí para ver el dashboard completo](assets/Finanzas.pdf)
 
-#### Configurador para la producción
+### Configurador para la producción
 
 Este proyecto se centra en la optimización de recursos para el plan de producción en un área específica de una planta de manufactura. Utilizando técnicas avanzadas de optimización y programación en Python, logramos reducir significativamente la cantidad de recursos necesarios para ejecutar el plan de producción, al tiempo que aumentamos la productividad del área en un 35%.
 
