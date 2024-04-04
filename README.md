@@ -1,4 +1,4 @@
-### ¡Bienvenido a mi portafolio de proyectos! 
+## ¡Bienvenido a mi portafolio de proyectos! 
 Soy un ingeniero industrial y de sistemas con una pasión por la analítica de negocios. Poseo un título universitario como Ingenierio Industrial y de Sistemas de la Universidad del Valle de México y una Maestría en Business Analytics obtenida en el prestigioso EGADE Business School.
 
 Mi enfoque se centra en aprovechar la intersección entre la ingeniería y la analítica para abordar desafíos empresariales de manera innovadora y eficiente. A lo largo de mi carrera, he desarrollado habilidades sólidas en el análisis de datos, modelado predictivo y visualización de datos.
@@ -25,9 +25,9 @@ Con un enfoque orientado a resultados y una mentalidad analítica, estoy comprom
 [Da clic aquí para ver mi CV](assets/MBD-CarlosAvalos.pdf)
 
 
-## Projects
+# Projects
 
-### Finanzas personales
+## Finanzas personales
 
 Este proyecto fue desarrollado con el objetivo de proporcionar una herramienta efectiva para el análisis y seguimiento de finanzas personales. Utilizando Power BI, creamos un dashboard completo que abarca cuatro sectores clave: ingresos, gastos, utilidad y balance. Cada uno de estos sectores ofrece una visión clara y detallada de la situación financiera, permitiendo una toma de decisiones más informada y eficiente.
 
@@ -51,7 +51,7 @@ El dashboard de finanzas personales en Power BI ofrece una herramienta poderosa 
 
 [Da clic aquí para ver el dashboard completo](assets/Finanzas.pdf)
 
-### Configurador para la producción
+## Configurador para la producción
 
 Este proyecto se centra en la optimización de recursos para el plan de producción en un área específica de una planta de manufactura. Utilizando técnicas avanzadas de optimización y programación en Python, logramos reducir significativamente la cantidad de recursos necesarios para ejecutar el plan de producción, al tiempo que aumentamos la productividad del área en un 35%.
 
@@ -75,7 +75,7 @@ El proyecto de optimización de recursos para el plan de producción en una plan
 
 [Da clic aquí para visualizar el codigo](assets/CSPConfigurator.ipynb)
 
-### Indicadores mundiales
+## Indicadores mundiales
 
 Este proyecto se centra en el análisis de indicadores clave de mortalidad y natalidad a nivel mundial con el fin de proporcionar una visualización clara y comprensible de estos datos. Utilizando Power BI, hemos creado un dashboard interactivo que categoriza los indicadores por la cantidad de población en cada país, la esperanza de vida y la mortalidad infantil. Además, los datos se agrupan por continente y se representan visualmente en un mapa de calor para una mejor comprensión y análisis.
 
@@ -97,7 +97,7 @@ El proyecto de análisis de indicadores de mortalidad y natalidad a nivel mundia
 
 [Da clic aquí para ver el dashboard completo](assets/Indicadoresmundiales.pdf)
 
-### Analisis de ventas para una cadena de supermercados
+## Analisis de ventas para una cadena de supermercados
 
 Este proyecto se enfocó en el análisis y la predicción de las ventas de una cadena de supermercados que opera a lo largo de Estados Unidos. Utilizando datos obtenidos de un repositorio, llevamos a cabo un exhaustivo análisis para identificar tendencias, segmentos de mercado y localidades con mayor volumen de ventas. Posteriormente, aplicamos técnicas de regresión lineal y de random forest para estimar las ventas futuras de la cadena.
 
@@ -119,7 +119,7 @@ El proyecto de análisis y predicción de ventas para una cadena de supermercado
 
 [Da clic aquí para visualizar el codigo](assets/SalesAnalysis.ipynb)
 
-### Ventas de Video Juegos
+## Ventas de Video Juegos
 
 Este proyecto tiene como objetivo realizar un análisis exhaustivo de las ventas de videojuegos a lo largo del tiempo para identificar tendencias y factores de popularidad en el mercado. Utilizando Power BI, hemos creado un dashboard interactivo que proporciona una visión detallada de varios aspectos clave de la industria de los videojuegos, incluyendo el tipo de consola más vendido, los géneros más populares, la distribución por región y las tendencias de compra por mercado.
 
@@ -141,7 +141,7 @@ El dashboard de análisis de ventas de videojuegos con Power BI ofrece una visi�
 
 [Da clic aquí para ver el dashboard completo](assets/VentadeVideoJuegos.pdf)
 
-### Soldadura, ¿Muy frio o muy caliente?
+## Soldadura, ¿Muy frio o muy caliente?
 
 Este proyecto se enfocó en la optimización del proceso de soldadura en un entorno de manufactura, específicamente en la verificación y control de la temperatura durante la unión de tuberías. Trabajando en colaboración con una casa certificadora de procesos de soldadura, nuestro objetivo era garantizar que la temperatura en la que se realizaba el proceso de soldadura cumpliera con las especificaciones requeridas.
 
