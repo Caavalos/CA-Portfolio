@@ -46,6 +46,7 @@ Además de estos cuatro sectores principales, el dashboard incluye análisis má
 El dashboard de finanzas personales en Power BI ofrece una herramienta poderosa y visual para el análisis y seguimiento de las finanzas personales. Con sus características interactivas y detalladas, permite una toma de decisiones más informada y una gestión financiera más efectiva. 
 
 ![image](https://github.com/Caavalos/CA-Portfolio/assets/102110326/a7b7f713-f84c-478b-b00b-78106e2565a6)
+
 [Da clic aquí para ver el dashboard completo](assets/Finanzas.pdf)
 
 ### Configurador para la producción
@@ -74,5 +75,23 @@ El proyecto de optimización de recursos para el plan de producción en una plan
 
 ### Indicadores mundiales
 
+Este proyecto se centra en el análisis de indicadores clave de mortalidad y natalidad a nivel mundial con el fin de proporcionar una visualización clara y comprensible de estos datos. Utilizando Power BI, hemos creado un dashboard interactivo que categoriza los indicadores por la cantidad de población en cada país, la esperanza de vida y la mortalidad infantil. Además, los datos se agrupan por continente y se representan visualmente en un mapa de calor para una mejor comprensión y análisis.
 
+#### Características clave:
+
+- Categorización por indicadores clave: El dashboard presenta indicadores fundamentales como la cantidad de población en cada país, la esperanza de vida y la mortalidad infantil. Estos indicadores son esenciales para comprender la dinámica demográfica y la salud de una población.
+
+- Agrupación por continente: Los datos se agrupan por continente, lo que permite una comparación fácil y rápida entre diferentes regiones del mundo. Esta agrupación facilita la identificación de tendencias y disparidades regionales en los indicadores de mortalidad y natalidad.
+
+- Visualización en mapa de calor: Los datos se visualizan en un mapa de calor, lo que proporciona una representación gráfica intuitiva de la distribución geográfica de los indicadores. Los colores del mapa de calor reflejan los valores de los indicadores, lo que permite identificar patrones y tendencias de manera efectiva.
+
+- Interactividad: El dashboard es interactivo, lo que significa que los usuarios pueden explorar los datos de manera dinámica. Se pueden aplicar filtros y seleccionar diferentes variables para personalizar la visualización según las necesidades específicas del usuario.
+
+#### Conclusión:
+
+El proyecto de análisis de indicadores de mortalidad y natalidad a nivel mundial con Power BI ofrece una herramienta poderosa para comprender y analizar la situación demográfica y de salud a escala global. Al proporcionar una visualización clara y comprensible de estos datos, el dashboard facilita la identificación de patrones, tendencias y disparidades geográficas, lo que puede informar políticas y acciones para mejorar la salud y el bienestar de las poblaciones en todo el mundo.
+
+![image](https://github.com/Caavalos/CA-Portfolio/assets/102110326/0dcff276-a1ba-4363-9cad-3feabbaa1b36)
+
+[Da clic aquí para ver el dashboard completo](assets/Indicadoresmundiales.pdf)
 
