@@ -93,5 +93,5 @@ El proyecto de análisis de indicadores de mortalidad y natalidad a nivel mundia
 
 ![image](https://github.com/Caavalos/CA-Portfolio/assets/102110326/0dcff276-a1ba-4363-9cad-3feabbaa1b36)
 
-[Da clic aquí para ver el dashboard completo](assets/Indicadoresmundiales.pdf)
+[Da clic aquí para ver el dashboard completo](assets/Indicadores mundiales.pdf)
 
