@@ -1,5 +1,3 @@
-# Carlos Avalos MBD
-
 ### ¡Bienvenido a mi portafolio de proyectos! 
 Soy un ingeniero industrial y de sistemas con una pasión por la analítica de negocios. Poseo un título universitario como Ingenierio Industrial y de Sistemas de la Universidad del Valle de México y una Maestría en Business Analytics obtenida en el prestigioso EGADE Business School.
 
