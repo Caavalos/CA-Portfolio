@@ -46,4 +46,29 @@ Además de estos cuatro sectores principales, el dashboard incluye análisis má
 El dashboard de finanzas personales en Power BI ofrece una herramienta poderosa y visual para el análisis y seguimiento de las finanzas personales. Con sus características interactivas y detalladas, permite una toma de decisiones más informada y una gestión financiera más efectiva. 
 
 ![image](https://github.com/Caavalos/CA-Portfolio/assets/102110326/a7b7f713-f84c-478b-b00b-78106e2565a6)
-[Da click aquí para ver el dashboard completo](assets/Finanzas.pdf)
+[Da clic aquí para ver el dashboard completo](assets/Finanzas.pdf)
+
+#### Configurador para la producción
+
+Este proyecto se centra en la optimización de recursos para el plan de producción en un área específica de una planta de manufactura. Utilizando técnicas avanzadas de optimización y programación en Python, logramos reducir significativamente la cantidad de recursos necesarios para ejecutar el plan de producción, al tiempo que aumentamos la productividad del área en un 35%.
+
+Antes de la implementación del proyecto, se requerían tres ingenieros dedicados y cuatro horas diarias por persona para planificar y ejecutar el plan de producción. Sin embargo, mediante el desarrollo de un algoritmo de optimización personalizado, logramos reducir este proceso a solo cinco minutos cada quince días con un solo ingeniero.
+
+El proyecto aborda diversas limitantes del área, incluyendo la mezcla de productos a fabricar, la disponibilidad de materia prima y la cantidad de setups necesarios. Utilizando datos históricos y modelos predictivos, el algoritmo optimiza la asignación de recursos y minimiza los tiempos de configuración, garantizando una producción eficiente y rentable.
+
+#### Características clave:
+
+- Reducción de recursos: El proyecto logra reducir la cantidad de recursos necesarios para el plan de producción, lo que se traduce en ahorros significativos en costos laborales y tiempo dedicado a la planificación.
+
+- Automatización del proceso: Mediante el desarrollo de un algoritmo automatizado en Python, el proceso de planificación y ejecución del plan de producción se simplifica enormemente, liberando recursos para otras tareas críticas.
+
+- Aumento de la productividad: La implementación del proyecto resulta en un aumento del 35% en la productividad del área, permitiendo una producción más eficiente y rentable.
+
+#### Conclusión:
+
+El proyecto de optimización de recursos para el plan de producción en una planta de manufactura demuestra el poder de la programación en Python para resolver desafíos empresariales complejos. Al reducir la cantidad de recursos necesarios, automatizar el proceso de planificación y aumentar la productividad del área, el proyecto proporciona un valor significativo a la empresa, mejorando su competitividad y rentabilidad.
+
+[Da clic aquí para visualizar el codigo](assets/CSPConfigurator.ipynb)
+
+
+
