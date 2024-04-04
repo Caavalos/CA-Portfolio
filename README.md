@@ -69,6 +69,7 @@ El proyecto aborda diversas limitantes del área, incluyendo la mezcla de produc
 El proyecto de optimización de recursos para el plan de producción en una planta de manufactura demuestra el poder de la programación en Python para resolver desafíos empresariales complejos. Al reducir la cantidad de recursos necesarios, automatizar el proceso de planificación y aumentar la productividad del área, el proyecto proporciona un valor significativo a la empresa, mejorando su competitividad y rentabilidad.
 
 ![image](https://github.com/Caavalos/CA-Portfolio/assets/102110326/1d7e12f7-507f-4d20-8273-4aa201dfdd8c)
+
 [Da clic aquí para visualizar el codigo](assets/CSPConfigurator.ipynb)
 
 
