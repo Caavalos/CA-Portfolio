@@ -72,5 +72,7 @@ El proyecto de optimización de recursos para el plan de producción en una plan
 
 [Da clic aquí para visualizar el codigo](assets/CSPConfigurator.ipynb)
 
+### Indicadores mundiales
+
 
 
