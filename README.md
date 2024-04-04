@@ -97,3 +97,73 @@ El proyecto de análisis de indicadores de mortalidad y natalidad a nivel mundia
 
 [Da clic aquí para ver el dashboard completo](assets/Indicadoresmundiales.pdf)
 
+### Analisis de ventas para una cadena de supermercados
+
+Este proyecto se enfocó en el análisis y la predicción de las ventas de una cadena de supermercados que opera a lo largo de Estados Unidos. Utilizando datos obtenidos de un repositorio, llevamos a cabo un exhaustivo análisis para identificar tendencias, segmentos de mercado y localidades con mayor volumen de ventas. Posteriormente, aplicamos técnicas de regresión lineal y de random forest para estimar las ventas futuras de la cadena.
+
+#### Características clave:
+
+- Análisis exploratorio de datos: Utilizamos técnicas de análisis exploratorio de datos para comprender la estructura y la distribución de los datos. Identificamos tendencias, patrones y relaciones entre las variables que nos permitieron obtener información valiosa sobre el desempeño de la cadena de supermercados.
+
+- Segmentación de mercado: Mediante el análisis de clustering, segmentamos el mercado para identificar grupos de clientes con características similares. Esto nos permitió comprender mejor las necesidades y preferencias de cada segmento, lo que a su vez facilitó la formulación de estrategias de marketing más efectivas.
+
+- Localidades con mayor volumen de ventas: Utilizando técnicas de visualización de datos, identificamos las localidades con mayor volumen de ventas y analizamos los factores que contribuyeron a su éxito. Esto proporcionó información útil para la toma de decisiones relacionadas con la asignación de recursos y la expansión de la cadena de supermercados.
+
+- Predicción de ventas: Aplicamos modelos de regresión lineal y de random forest para predecir las ventas futuras de la cadena de supermercados. Utilizamos datos históricos de ventas, así como variables predictoras relevantes, para generar pronósticos precisos que ayudaron a la planificación estratégica y la toma de decisiones.
+
+#### Conclusión:
+
+El proyecto de análisis y predicción de ventas para una cadena de supermercados en Estados Unidos con Python proporcionó información valiosa que ayudó a la cadena a comprender mejor su desempeño, identificar oportunidades de crecimiento y optimizar sus operaciones. Al utilizar técnicas avanzadas de análisis de datos y modelado predictivo, pudimos proporcionar insights significativos que contribuyeron al éxito y la rentabilidad de la cadena de supermercados.
+
+![image](https://github.com/Caavalos/CA-Portfolio/assets/102110326/6f0d7e00-e836-4d19-bec5-6061de100283)
+
+[Da clic aquí para visualizar el codigo](assets/SalesAnalysis.ipynb)
+
+### Ventas de Video Juegos
+
+Este proyecto tiene como objetivo realizar un análisis exhaustivo de las ventas de videojuegos a lo largo del tiempo para identificar tendencias y factores de popularidad en el mercado. Utilizando Power BI, hemos creado un dashboard interactivo que proporciona una visión detallada de varios aspectos clave de la industria de los videojuegos, incluyendo el tipo de consola más vendido, los géneros más populares, la distribución por región y las tendencias de compra por mercado.
+
+#### Características clave:
+
+- Análisis de tipo de consola: El dashboard muestra la distribución de las ventas de videojuegos por tipo de consola, lo que permite identificar cuáles son las plataformas más populares entre los consumidores. Esta información es crucial para los desarrolladores y editores de juegos que buscan lanzar nuevos títulos en plataformas específicas.
+
+- Análisis de género de videojuegos: Se presenta un análisis detallado de los géneros de videojuegos más comprados por los consumidores. Esto ayuda a entender las preferencias del público objetivo y permite a los inversores y desarrolladores tomar decisiones informadas sobre qué tipos de juegos lanzar al mercado.
+
+- Distribución por región: El dashboard muestra la distribución geográfica de las ventas de videojuegos, lo que permite identificar tendencias regionales y adaptar estrategias de marketing y distribución en consecuencia.
+
+- Editoriales predominantes: Se proporciona información sobre las editoriales más predominantes en cada categoría de videojuegos, lo que ayuda a los inversores y desarrolladores a identificar las principales empresas del sector y a evaluar el potencial de asociación o inversión.
+
+#### Conclusión:
+
+El dashboard de análisis de ventas de videojuegos con Power BI ofrece una visión completa y detallada de la industria de los videojuegos, proporcionando insights valiosos para inversores, editores, publicistas y desarrolladores. Al permitir el análisis de múltiples factores, como tipo de consola, género de videojuego, distribución por región y editoriales predominantes, este dashboard ayuda a entender mejor el mercado y estimar las ventas potenciales, lo que facilita la toma de decisiones estratégicas y la planificación de inversiones en la industria de los videojuegos.
+
+![image](https://github.com/Caavalos/CA-Portfolio/assets/102110326/a70aa7b6-608d-4ab5-9f1e-ab9ad555aa97)
+
+[Da clic aquí para ver el dashboard completo](assets/VentadeVideoJuegos.pdf)
+
+### Soldadura, ¿Muy frio o muy caliente?
+
+Este proyecto se enfocó en la optimización del proceso de soldadura en un entorno de manufactura, específicamente en la verificación y control de la temperatura durante la unión de tuberías. Trabajando en colaboración con una casa certificadora de procesos de soldadura, nuestro objetivo era garantizar que la temperatura en la que se realizaba el proceso de soldadura cumpliera con las especificaciones requeridas.
+
+Para lograr esto, recolectamos datos de más de 24 horas de observación, obtenidos de un PLC que monitoreaba y registraba las curvas de temperatura durante la unión de las tuberías. Utilizando Python, procesamos y analizamos estos datos para visualizar el comportamiento del proceso, identificar el punto máximo de temperatura en función del tiempo y evaluar la duración de cada ciclo de soldadura.
+
+Tras un exhaustivo análisis, determinamos que el proceso requería más tiempo para garantizar una unión adecuada. Realizamos ajustes y observamos mejoras significativas, lo que nos permitió certificar las soldaduras de manera efectiva. Para optimizar aún más el proceso, implementamos una torreta conectada a un PLC que utilizaba una cámara térmica para indicar al operador cuándo la unión alcanzaba la temperatura óptima para su proceso. Esto aseguró no solo la calidad de las uniones, sino también la correcta capilaridad de los metales.
+
+#### Características clave:
+
+- Recolección y procesamiento de datos: Recopilamos y procesamos datos de temperatura obtenidos de un PLC para analizar el comportamiento del proceso de soldadura a lo largo del tiempo.
+
+- Análisis y visualización de datos: Utilizamos Python para analizar y visualizar los datos, identificando tendencias y patrones clave que nos permitieron tomar decisiones informadas sobre la optimización del proceso.
+
+- Ajustes y mejoras: Realizamos ajustes en el proceso de soldadura basados en el análisis de datos, lo que resultó en mejoras significativas en la calidad y eficiencia de las soldaduras.
+
+- Implementación de soluciones de control: Para asegurar la calidad y consistencia del proceso, implementamos una solución de control basada en una torreta conectada a un PLC y una cámara térmica, que indicaba al operador cuándo la unión había alcanzado la temperatura óptima para la soldadura.
+
+#### Conclusión:
+
+El proyecto de optimización del proceso de soldadura en manufactura con Python demostró el poder del análisis de datos y la implementación de soluciones tecnológicas para mejorar la calidad y eficiencia de los procesos industriales. Al utilizar Python para analizar y visualizar datos de temperatura, identificamos áreas de mejora y desarrollamos soluciones efectivas que garantizaron la calidad y consistencia de las soldaduras. Esta implementación no solo aseguró la calidad de las uniones, sino que también mejoró la eficiencia del proceso y redujo los costos asociados con la retrabajo y desperdicio de material.
+
+![image](https://github.com/Caavalos/CA-Portfolio/assets/102110326/53869645-8094-407c-b37b-fe69f24be404)
+
+[Da clic aquí para visualizar el codigo](assets/Thermal.ipynb)
+
