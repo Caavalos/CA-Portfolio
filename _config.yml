@@ -1,5 +1,21 @@
 title: Carlos Avalos - MBD
 logo: /assets/CarlosAvalos.jpg
-description: caavalosjr@gmail.com
+email: caavalosjr@gmail.com
+linkedin: www.linkedin.com/in/carlos-avalos-568a811b6
 #show_downloads: true
 theme: jekyll-theme-minimal
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+
+<button onclick="window.open('/assets/MBD - Carlos Avalos.pdf', '_blank')">Open PDF</button>
+
+{{ content }}
+
+</body>
+</html>
