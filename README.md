@@ -46,4 +46,4 @@ Además de estos cuatro sectores principales, el dashboard incluye análisis má
 El dashboard de finanzas personales en Power BI ofrece una herramienta poderosa y visual para el análisis y seguimiento de las finanzas personales. Con sus características interactivas y detalladas, permite una toma de decisiones más informada y una gestión financiera más efectiva. 
 
 ![image](https://github.com/Caavalos/CA-Portfolio/assets/102110326/a7b7f713-f84c-478b-b00b-78106e2565a6)
-
+[Da click aquí para ver el dashboard completo](assets/Finanzas.pdf)
